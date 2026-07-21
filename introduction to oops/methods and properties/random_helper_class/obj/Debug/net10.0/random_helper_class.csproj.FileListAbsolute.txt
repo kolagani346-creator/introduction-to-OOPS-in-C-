@@ -1,0 +1,14 @@
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\random_helper_class\bin\Debug\net10.0\random_helper_class.exe
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\random_helper_class\bin\Debug\net10.0\random_helper_class.deps.json
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\random_helper_class\bin\Debug\net10.0\random_helper_class.runtimeconfig.json
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\random_helper_class\bin\Debug\net10.0\random_helper_class.dll
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\random_helper_class\bin\Debug\net10.0\random_helper_class.pdb
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\random_helper_class\obj\Debug\net10.0\random_helper_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\random_helper_class\obj\Debug\net10.0\random_helper_class.AssemblyInfoInputs.cache
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\random_helper_class\obj\Debug\net10.0\random_helper_class.AssemblyInfo.cs
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\random_helper_class\obj\Debug\net10.0\random_helper_class.csproj.CoreCompileInputs.cache
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\random_helper_class\obj\Debug\net10.0\random_helper_class.dll
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\random_helper_class\obj\Debug\net10.0\refint\random_helper_class.dll
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\random_helper_class\obj\Debug\net10.0\random_helper_class.pdb
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\random_helper_class\obj\Debug\net10.0\random_helper_class.genruntimeconfig.cache
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\random_helper_class\obj\Debug\net10.0\ref\random_helper_class.dll

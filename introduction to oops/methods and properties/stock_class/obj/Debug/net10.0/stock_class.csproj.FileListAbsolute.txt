@@ -1,0 +1,14 @@
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\stock_class\bin\Debug\net10.0\stock_class.exe
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\stock_class\bin\Debug\net10.0\stock_class.deps.json
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\stock_class\bin\Debug\net10.0\stock_class.runtimeconfig.json
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\stock_class\bin\Debug\net10.0\stock_class.dll
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\stock_class\bin\Debug\net10.0\stock_class.pdb
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\stock_class\obj\Debug\net10.0\stock_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\stock_class\obj\Debug\net10.0\stock_class.AssemblyInfoInputs.cache
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\stock_class\obj\Debug\net10.0\stock_class.AssemblyInfo.cs
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\stock_class\obj\Debug\net10.0\stock_class.csproj.CoreCompileInputs.cache
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\stock_class\obj\Debug\net10.0\stock_class.dll
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\stock_class\obj\Debug\net10.0\refint\stock_class.dll
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\stock_class\obj\Debug\net10.0\stock_class.pdb
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\stock_class\obj\Debug\net10.0\stock_class.genruntimeconfig.cache
+C:\Users\kolag\OneDrive\ドキュメント\Desktop\pblAssignments\introduction to oops\stock_class\obj\Debug\net10.0\ref\stock_class.dll
